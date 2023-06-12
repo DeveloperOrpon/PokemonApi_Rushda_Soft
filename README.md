@@ -1,16 +1,10 @@
 # pokemon
 
-A new Flutter project.
+## OutPut In Device :tada:
 
-## Getting Started
+## pokemonapi.co
 
-This project is a starting point for a Flutter application.
+# HomePage
+<img align="center" src = "https://github.com/DeveloperOrpon/PokemonApi_Rushda_Soft/blob/master/Screen_shot/Screenshot_2023-06-12-17-55-54-577_com.example.pokemon.jpg?raw=true" width="200px" alt ="Loading">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
